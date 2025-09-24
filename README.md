@@ -46,19 +46,19 @@ Execute the program using runserver command.
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">8-10</td>
-            <td></td>
             <td>FREE SLOT</td>
-            <td></td>
-            <td>PHY</td>
-            <td>CHE</td>
+            <td>FREE SLOT</td>
+            <td>FREE SLOT</td>
+            <td>C</td>
+            <td>ML</td>
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">10-12</td>
-            <td></td>
             <td>FWAD</td>
-            <td></td>
-            <td>PHY</td>
-            <td>CHE</td>
+            <td>FREE SLOT</td>
+            <td>FWAD</td>
+            <td>FREE SLOT</td>
+            <td>FWAD</td>
         </tr>
         </tr>
         <tr BGCOLOR="CYAN">
@@ -68,18 +68,18 @@ Execute the program using runserver command.
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">1-3</td>
             <td>FREE SLOT</td>
-            <td>MAT</td>
-            <td>MAT</td>
-            <td>SS</td>
-            <td></td>
+            <td>ML</td>
+            <td>MM</td>
+            <td>C</td>
+            <td>ML</td>
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">3-5</td>
-            <td>FREE SLOT</td>
-            <td>GER</td>
-            <td>CHE</td>
+            <td>C</td>
+            <td>C</td>
             <td>FWAD</td>
-            <td></td>
+            <td>ML</td>
+            <td>C</td>
         </tr>
     </table>
 
@@ -97,28 +97,13 @@ Execute the program using runserver command.
         </tr>
         <tr>
             <td>2.</td>
-            <td>19EN612</td>
-            <td>German Basic (GER)</td>
+            <td>19AI410</td>
+            <td>Introduction to machine learning (ML)</td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>19PH206</td>
-            <td>Physics for Information Technology (PHY)</td>
-        </tr>
-        <tr>
-            <td>4.</td>
-            <td>19CY205</td>
-            <td>Principles of Chemistry in Engineering (CHE)</td>
-        </tr>
-        <tr>
-            <td>5.</td>
-            <td>19MA201</td>
-            <td>Calculus and Matrix Algebra (MAT)</td>
-        </tr>
-        <tr>
-            <td>6.</td>
-            <td>19EY701</td>
-            <td>Soft Skills (SS)</td>
+            <td>19AI304</td>
+            <td>Fundamentals of c programming (C)</td>
         </tr>
     </table>
 </body>
@@ -127,8 +112,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-
-![alt text](<Screenshot 2025-09-24 122216.png>)
+![alt text](<Screenshot 2025-09-24 153516.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
